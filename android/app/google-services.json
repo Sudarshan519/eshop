@@ -1,0 +1,262 @@
+{
+  "project_info": {
+    "project_number": "177664591914",
+    "firebase_url": "https://newapp-c4334.firebaseio.com",
+    "project_id": "newapp-c4334",
+    "storage_bucket": "newapp-c4334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177664591914:android:c1768c9b2dfd3739331b53",
+        "android_client_info": {
+          "package_name": "com.example.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177664591914-bd4c9umauu1o4vcujham8n2mdtikqsfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eshop",
+            "certificate_hash": "fa90fc553ca322e0a47058a572ecd7dab5e8cd6e"
+          }
+        },
+        {
+          "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSP_w5ej2TIPThT87tdvTUrVqf96Og-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177664591914:android:209645e9a47bfbce",
+        "android_client_info": {
+          "package_name": "com.example.personal_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSP_w5ej2TIPThT87tdvTUrVqf96Og-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177664591914:android:322fa4485cf20712",
+        "android_client_info": {
+          "package_name": "com.sid.ai.aiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSP_w5ej2TIPThT87tdvTUrVqf96Og-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177664591914:android:8752ea3ba701fb08331b53",
+        "android_client_info": {
+          "package_name": "com.sidtube.envato.insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177664591914-ig1lrnuifubjkgaqsubrjdmv56ojkdm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sidtube.envato.insta",
+            "certificate_hash": "15de70bc670302e979c0c311e7c9815aab0bfaf8"
+          }
+        },
+        {
+          "client_id": "177664591914-dvg4db7v96ij9c5im6un756g0en0tag9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sidtube.envato.insta",
+            "certificate_hash": "1be6b5814c49e690c45c82f3d8aeb10bfec1d2c4"
+          }
+        },
+        {
+          "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSP_w5ej2TIPThT87tdvTUrVqf96Og-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177664591914:android:0f08df81c5cf72f2331b53",
+        "android_client_info": {
+          "package_name": "com.sidtube.envato.instaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177664591914-ms3em277elb40g7oce2n0ab028996edr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sidtube.envato.instaclone",
+            "certificate_hash": "603bcd19275360bc3242e28c04a8b263470a3f25"
+          }
+        },
+        {
+          "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSP_w5ej2TIPThT87tdvTUrVqf96Og-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177664591914:android:9d56f868dd8649b7331b53",
+        "android_client_info": {
+          "package_name": "info.sidtube.eno.podcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177664591914-d62scd8iin9qfndaaus75ckac0eerr0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.sidtube.eno.podcast",
+            "certificate_hash": "15de70bc670302e979c0c311e7c9815aab0bfaf8"
+          }
+        },
+        {
+          "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSP_w5ej2TIPThT87tdvTUrVqf96Og-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177664591914:android:09912afd65408b38331b53",
+        "android_client_info": {
+          "package_name": "info.sidtube.envato.podcastadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177664591914-mbqlchmoqoi66o0hk6ipev3emcr4bjnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.sidtube.envato.podcastadmin",
+            "certificate_hash": "15de70bc670302e979c0c311e7c9815aab0bfaf8"
+          }
+        },
+        {
+          "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSP_w5ej2TIPThT87tdvTUrVqf96Og-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177664591914-95erecd5b483dp370lngqosi998p1ojm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
